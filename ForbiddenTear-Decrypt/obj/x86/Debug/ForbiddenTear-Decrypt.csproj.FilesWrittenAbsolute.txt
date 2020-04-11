@@ -1,0 +1,7 @@
+/home/ethanpappion/Projects/ForbiddenTear/ForbiddenTear-Decrypt/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/home/ethanpappion/Projects/ForbiddenTear/ForbiddenTear-Decrypt/obj/x86/Debug/Decrypt.Form1.resources
+/home/ethanpappion/Projects/ForbiddenTear/ForbiddenTear-Decrypt/obj/x86/Debug/Decrypt.Properties.Resources.resources
+/home/ethanpappion/Projects/ForbiddenTear/ForbiddenTear-Decrypt/bin/Debug/Decrypt.exe.mdb
+/home/ethanpappion/Projects/ForbiddenTear/ForbiddenTear-Decrypt/bin/Debug/Decrypt.exe
+/home/ethanpappion/Projects/ForbiddenTear/ForbiddenTear-Decrypt/obj/x86/Debug/Decrypt.exe
+/home/ethanpappion/Projects/ForbiddenTear/ForbiddenTear-Decrypt/obj/x86/Debug/Decrypt.exe.mdb

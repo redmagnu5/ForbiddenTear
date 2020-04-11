@@ -1,0 +1,16 @@
+/home/ethanpappion/Projects/HiddenTear/HiddenTear-Message/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/home/ethanpappion/Projects/HiddenTear/HiddenTear-Message/obj/x86/Debug/Message.Html.Message.html
+/home/ethanpappion/Projects/HiddenTear/HiddenTear-Message/obj/x86/Debug/Message.Form1.resources
+/home/ethanpappion/Projects/HiddenTear/HiddenTear-Message/obj/x86/Debug/Message.Properties.Resources.resources
+/home/ethanpappion/Projects/HiddenTear/HiddenTear-Message/bin/Debug/Message.exe.mdb
+/home/ethanpappion/Projects/HiddenTear/HiddenTear-Message/bin/Debug/Message.exe
+/home/ethanpappion/Projects/HiddenTear/HiddenTear-Message/obj/x86/Debug/Message.exe
+/home/ethanpappion/Projects/HiddenTear/HiddenTear-Message/obj/x86/Debug/Message.exe.mdb
+/home/ethanpappion/Projects/ForbiddenTear/HiddenTear-Message/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/home/ethanpappion/Projects/ForbiddenTear/HiddenTear-Message/obj/x86/Debug/Message.Html.Message.html
+/home/ethanpappion/Projects/ForbiddenTear/HiddenTear-Message/obj/x86/Debug/Message.Form1.resources
+/home/ethanpappion/Projects/ForbiddenTear/HiddenTear-Message/obj/x86/Debug/Message.Properties.Resources.resources
+/home/ethanpappion/Projects/ForbiddenTear/HiddenTear-Message/bin/Debug/Message.exe.mdb
+/home/ethanpappion/Projects/ForbiddenTear/HiddenTear-Message/bin/Debug/Message.exe
+/home/ethanpappion/Projects/ForbiddenTear/HiddenTear-Message/obj/x86/Debug/Message.exe
+/home/ethanpappion/Projects/ForbiddenTear/HiddenTear-Message/obj/x86/Debug/Message.exe.mdb

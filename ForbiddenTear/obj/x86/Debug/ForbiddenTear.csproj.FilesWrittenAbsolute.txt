@@ -1,0 +1,10 @@
+/home/ethanpappion/Projects/ForbiddenTear/ForbiddenTear/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/home/ethanpappion/Projects/ForbiddenTear/ForbiddenTear/obj/x86/Debug/Main.Embedded.pubkey.txt
+/home/ethanpappion/Projects/ForbiddenTear/ForbiddenTear/obj/x86/Debug/Main.Embedded.Decrypt.exe
+/home/ethanpappion/Projects/ForbiddenTear/ForbiddenTear/obj/x86/Debug/Main.Embedded.Message.exe
+/home/ethanpappion/Projects/ForbiddenTear/ForbiddenTear/obj/x86/Debug/Main.Form1.resources
+/home/ethanpappion/Projects/ForbiddenTear/ForbiddenTear/obj/x86/Debug/Main.Properties.Resources.resources
+/home/ethanpappion/Projects/ForbiddenTear/ForbiddenTear/bin/Debug/ForbiddenTear.exe.mdb
+/home/ethanpappion/Projects/ForbiddenTear/ForbiddenTear/bin/Debug/ForbiddenTear.exe
+/home/ethanpappion/Projects/ForbiddenTear/ForbiddenTear/obj/x86/Debug/ForbiddenTear.exe
+/home/ethanpappion/Projects/ForbiddenTear/ForbiddenTear/obj/x86/Debug/ForbiddenTear.exe.mdb

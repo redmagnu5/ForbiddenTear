@@ -1,0 +1,7 @@
+/home/ethanpappion/Projects/HiddenTear/HiddenTear-Decrypt/obj/x86/Debug/.NETFramework,Version=v4.0,Profile=Client.AssemblyAttribute.cs
+/home/ethanpappion/Projects/HiddenTear/HiddenTear-Decrypt/obj/x86/Debug/HiddenTear_Decrypt.Form1.resources
+/home/ethanpappion/Projects/HiddenTear/HiddenTear-Decrypt/obj/x86/Debug/HiddenTear_Decrypt2.Properties.Resources.resources
+/home/ethanpappion/Projects/HiddenTear/HiddenTear-Decrypt/bin/Debug/HiddenTear-Decrypt2.exe.mdb
+/home/ethanpappion/Projects/HiddenTear/HiddenTear-Decrypt/bin/Debug/HiddenTear-Decrypt2.exe
+/home/ethanpappion/Projects/HiddenTear/HiddenTear-Decrypt/obj/x86/Debug/HiddenTear-Decrypt2.exe
+/home/ethanpappion/Projects/HiddenTear/HiddenTear-Decrypt/obj/x86/Debug/HiddenTear-Decrypt2.exe.mdb
